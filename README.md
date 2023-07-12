@@ -1,3 +1,5 @@
-[Advent Of Code 2020](https://adventofcode.com/2020)
+# 🎄 Advent of Code 2020 🎄
 
-![stats](stats.png)
+solved in C# 🎅🏼
+
+![Calendar](stats.png)
